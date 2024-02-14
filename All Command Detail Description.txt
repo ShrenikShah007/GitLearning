@@ -1,0 +1,26 @@
+==> Why GIT?
+    Git is used for version control and also to track file version based on changes. It also helps developer to work multiple person on same module without conflicting each others code.We can also rollback to previous version. 
+    (Files tracking is a responsibility of Developers)
+
+==> Features of GIT
+    It will strore all files in snapshot format not differecnce inside .git folder. 
+    (All files version control will be handled using .git folder)
+    Almost every operations aare local until it saves and commited to remote repository.
+    Git has integrity (We can check file changes using checksum)
+
+==> Git Three Stage Structure
+    1) Local working environment
+    2) Staging (Which files ready for commits)
+    3) Git Directory (Repository Actually commited files)
+
+==> Command:: pwd
+    Present Working Directory
+
+==> Command::  git config --global user.name
+    Set username & email using above command
+
+==> Command::  git status
+    status of current branch or repository
+
+==> Command::  git add --a   
+    It will add all files and folder to staging area or ready for commits
