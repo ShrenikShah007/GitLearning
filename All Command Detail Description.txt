@@ -20,6 +20,7 @@
     4) Staged (git Commit -m "Message")
 
 ==> GitIgnore file Importance
+   The command "touch.gitignore" allows us to create a single file. We can include any files or folders in the git ignore file that we do not want to be tracked.
 
 ==> Command:: pwd
     Present Working Directory
