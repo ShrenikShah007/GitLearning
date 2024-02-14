@@ -93,3 +93,6 @@
 
 ==> Command::  git config --global alias.ci commit
     Alias command used to write default command name with specific name using above syntax.
+
+==> Command::  git checkout -b "branch_name"
+    This command will create new branch and change current branch with newly created branch .
