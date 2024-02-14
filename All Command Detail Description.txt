@@ -24,3 +24,9 @@
 
 ==> Command::  git add --a   
     It will add all files and folder to staging area or ready for commits
+
+==> Command::  git log   
+    It will list down all the commited message with user info and commit message.
+
+==> Command::  git add --a   
+    It will add all files and folder to staging area or ready for commits
