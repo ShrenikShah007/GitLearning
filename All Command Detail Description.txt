@@ -19,6 +19,8 @@
     3) Modified (git add .)
     4) Staged (git Commit -m "Message")
 
+==> GitIgnore file Importance
+
 ==> Command:: pwd
     Present Working Directory
 
