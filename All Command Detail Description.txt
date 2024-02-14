@@ -42,3 +42,9 @@
 
 ==> Command::  git Clone SSh_url   
     It will pull all the data of remote repository to local machine using above command.
+
+==> Command::  git diff   
+    It will compare content between staging directory and working directory.
+
+==> Command::  git diff --staged  
+    It will compare content between last commit with current staging.
