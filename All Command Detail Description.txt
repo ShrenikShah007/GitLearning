@@ -49,6 +49,14 @@
 ==> Command::  git diff --staged  
     It will compare content between last commit with current staging.
 
+==> Command::  git pull  
+    This command will used to retrieve data from remote repository to local machine.
+
+==> Command::  git push  
+    This command will used to insert data from local machine to remote repository.
+
+
+
 ==> Command::  git commit -a -m "Meesage"  
     It will skip staging file and execute commit but not commit for untracked file.
 
