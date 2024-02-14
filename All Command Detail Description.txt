@@ -55,8 +55,6 @@
 ==> Command::  git push  
     This command will used to insert data from local machine to remote repository.
 
-
-
 ==> Command::  git commit -a -m "Meesage"  
     It will skip staging file and execute commit but not commit for untracked file.
 
