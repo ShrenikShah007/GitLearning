@@ -48,3 +48,12 @@
 
 ==> Command::  git diff --staged  
     It will compare content between last commit with current staging.
+
+==> Command::  git commit -a -m "Meesage"  
+    It will skip staging file and execute commit but not commit for untracked file.
+
+==> Command::  git rm "file"  
+    It will remove file and also staged.
+
+==> Command::  git rm --cached "File_name"  
+    It will remove file from tracking.
