@@ -28,5 +28,8 @@
 ==> Command::  git log   
     It will list down all the commited message with user info and commit message.
 
-==> Command::  git add --a   
-    It will add all files and folder to staging area or ready for commits
+==> Command::  rm -rf .git   
+    It will remove .git folder repository.
+
+==> Command::  git Clone SSh_url   
+    It will pull all the data of remote repository to local machine using above command.
