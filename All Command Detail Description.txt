@@ -13,6 +13,12 @@
     2) Staging (Which files ready for commits)
     3) Git Directory (Repository Actually commited files)
 
+==> Git Files status lifecycle
+    1) Untracked (it will create untracked when git init execute)
+    2) Unmodified (git add --a)
+    3) Modified (git add .)
+    4) Staged (git Commit -m "Message")
+
 ==> Command:: pwd
     Present Working Directory
 
