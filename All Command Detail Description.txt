@@ -91,4 +91,5 @@
 ==> Command::  git checkout -- "file_name"
     This will replace specific modified file with previous commit.
 
-
+==> Command::  git config --global alias.ci commit
+    Alias command used to write default command name with specific name using above syntax.
