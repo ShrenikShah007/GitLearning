@@ -106,3 +106,9 @@
 
 ==> Command::  git branch -v
     This command will get last commit details such has commit message and hash.
+
+==> Command::  git branch -d "branch_name"
+    This command will used to delete merged branch but give error for not merged branch.
+
+==> Command::  git branch -D "branch_name"
+    This command will used to delete not merged branch.
