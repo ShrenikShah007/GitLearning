@@ -118,3 +118,6 @@
 
 ==> Command::  git branch --no-merged
     This command will list not merged branch.
+
+==> Command::  git branch -d origin "branch_name"
+    This command will delete branch from remote repository.
