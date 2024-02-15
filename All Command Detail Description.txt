@@ -103,3 +103,6 @@
 ==> Command::  git mrege "branch_name"
     Before executing above command, We need to move into master branch and all changes needs to commited before merge. It will merge your 
     current branch with Master/main branch.
+
+==> Command::  git branch -v
+    This command will get last commit details such has commit message and hash.
