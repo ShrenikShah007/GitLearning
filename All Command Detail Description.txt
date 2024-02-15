@@ -112,3 +112,9 @@
 
 ==> Command::  git branch -D "branch_name"
     This command will used to delete not merged branch.
+
+==> Command::  git branch --merged
+    This command will list already merged branch.
+
+==> Command::  git branch --no-merged
+    This command will list not merged branch.
