@@ -96,5 +96,3 @@
 
 ==> Command::  git checkout -b "branch_name"
     This command will create new branch and change current branch with newly created branch.
-
-
