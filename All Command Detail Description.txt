@@ -96,3 +96,10 @@
 
 ==> Command::  git checkout -b "branch_name"
     This command will create new branch and change current branch with newly created branch.
+
+==> Command::  git checkout "branch_name"
+    This command will from current branch to specified branch using above repository.
+
+==> Command::  git mrege "branch_name"
+    Before executing above command, We need to move into master branch and all changes needs to commited before merge. It will merge your 
+    current branch with Master/main branch.
